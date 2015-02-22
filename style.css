@@ -1,0 +1,43 @@
+/*
+
+h1 {
+    color: lightcoral;
+    font-size: 40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+
+.welcome {
+    color: red;
+}
+
+
+.veggie {
+    color: darkgreen;
+}
+
+.nonveggie {
+    color: #641525;
+}
+
+*/
+
+
+img.resize{  /* not being used, but this kind of class can be useful */
+    max-width:75%;
+    /*max-height:50%;*/
+}
+
+.nopadding {  /* Margin is on the outside of block elements while padding is on the inside. */
+    padding: 0 !important;
+    /*margin: 0 !important;*/
+}
+
